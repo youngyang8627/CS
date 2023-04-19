@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/ifelse.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/ifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/ifelse.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/ifelse.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/ifelse.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/bin/Debug/net7.0/ifelse
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/bin/Debug/net7.0/ifelse.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/bin/Debug/net7.0/ifelse.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/bin/Debug/net7.0/ifelse.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/bin/Debug/net7.0/ifelse.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/ifelse.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/refint/ifelse.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/ifelse.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/ifelse.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/IfElse/obj/Debug/net7.0/ref/ifelse.dll

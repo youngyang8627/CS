@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/bin/Debug/net7.0/While
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/bin/Debug/net7.0/While.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/bin/Debug/net7.0/While.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/bin/Debug/net7.0/While.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/bin/Debug/net7.0/While.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/While.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/While.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/While.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/While.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/While.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/refint/While.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/While.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/While.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/While/obj/Debug/net7.0/ref/While.dll

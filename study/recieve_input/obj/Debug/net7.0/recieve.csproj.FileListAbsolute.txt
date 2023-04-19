@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/recieve.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/recieve.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/recieve.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/recieve.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/recieve.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/bin/Debug/net7.0/recieve
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/bin/Debug/net7.0/recieve.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/bin/Debug/net7.0/recieve.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/bin/Debug/net7.0/recieve.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/bin/Debug/net7.0/recieve.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/recieve.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/refint/recieve.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/recieve.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/recieve.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/recieve_input/obj/Debug/net7.0/ref/recieve.dll

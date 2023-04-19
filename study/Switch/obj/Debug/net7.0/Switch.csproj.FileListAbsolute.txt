@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/Switch.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/Switch.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/Switch.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/Switch.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/bin/Debug/net7.0/Switch
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/bin/Debug/net7.0/Switch.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/bin/Debug/net7.0/Switch.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/bin/Debug/net7.0/Switch.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/bin/Debug/net7.0/Switch.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/Switch.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/refint/Switch.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/Switch.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/Switch.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Switch/obj/Debug/net7.0/ref/Switch.dll

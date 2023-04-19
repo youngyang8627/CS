@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/Class1.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/Class1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/Class1.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/Class1.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/Class1.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/bin/Debug/net7.0/Class1
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/bin/Debug/net7.0/Class1.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/bin/Debug/net7.0/Class1.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/bin/Debug/net7.0/Class1.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/bin/Debug/net7.0/Class1.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/Class1.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/refint/Class1.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/Class1.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/Class1.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Class1/obj/Debug/net7.0/ref/Class1.dll

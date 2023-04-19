@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/bin/Debug/net7.0/2Class
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/bin/Debug/net7.0/2Class.deps.json
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/bin/Debug/net7.0/2Class.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/bin/Debug/net7.0/2Class.dll
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/bin/Debug/net7.0/2Class.pdb
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/2Class.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/2Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/2Class.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/2Class.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/2Class.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/2Class.dll
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/refint/2Class.dll
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/2Class.pdb
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/2Class.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/study/Class_2/2Class/obj/Debug/net7.0/ref/2Class.dll

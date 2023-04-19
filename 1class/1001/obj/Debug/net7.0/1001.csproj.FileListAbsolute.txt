@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/1class/1001/bin/Debug/net7.0/1001
+/Users/leeseungju/Desktop/dev/CS/1class/1001/bin/Debug/net7.0/1001.deps.json
+/Users/leeseungju/Desktop/dev/CS/1class/1001/bin/Debug/net7.0/1001.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/1class/1001/bin/Debug/net7.0/1001.dll
+/Users/leeseungju/Desktop/dev/CS/1class/1001/bin/Debug/net7.0/1001.pdb
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/1001.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/1001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/1001.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/1001.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/1001.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/1001.dll
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/refint/1001.dll
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/1001.pdb
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/1001.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/1class/1001/obj/Debug/net7.0/ref/1001.dll

@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/bin/Debug/net7.0/2datatype
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/bin/Debug/net7.0/2datatype.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/bin/Debug/net7.0/2datatype.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/bin/Debug/net7.0/2datatype.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/bin/Debug/net7.0/2datatype.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/2datatype.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/2datatype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/2datatype.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/2datatype.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/2datatype.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/2datatype.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/refint/2datatype.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/2datatype.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/2datatype.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/2datatype/obj/Debug/net7.0/ref/2datatype.dll

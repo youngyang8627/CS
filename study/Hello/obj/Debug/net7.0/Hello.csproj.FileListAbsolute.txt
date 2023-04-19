@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/bin/Debug/net7.0/Hello
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/bin/Debug/net7.0/Hello.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/bin/Debug/net7.0/Hello.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/bin/Debug/net7.0/Hello.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/bin/Debug/net7.0/Hello.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/Hello.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/Hello.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/Hello.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/Hello.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/Hello.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/refint/Hello.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/Hello.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/Hello.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/Hello/obj/Debug/net7.0/ref/Hello.dll

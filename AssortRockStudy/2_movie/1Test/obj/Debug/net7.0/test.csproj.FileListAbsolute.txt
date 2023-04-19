@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/bin/Debug/net7.0/test
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/bin/Debug/net7.0/test.deps.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/bin/Debug/net7.0/test.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/bin/Debug/net7.0/test.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/test.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/refint/test.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/test.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/2_movie/1Test/obj/Debug/net7.0/ref/test.dll

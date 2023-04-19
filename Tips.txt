@@ -1,0 +1,6 @@
+Tip for C#
+
+First. When you cannot run C# code include Console.ReadLine
+ - remove bin directory ( rm -rf bin )
+ - do build and run again
+

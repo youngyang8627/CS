@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/bin/Debug/net7.0/myApp
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/bin/Debug/net7.0/myApp.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/bin/Debug/net7.0/myApp.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/bin/Debug/net7.0/myApp.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/bin/Debug/net7.0/myApp.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/myApp.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/myApp.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/myApp.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/myApp.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/myApp.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/refint/myApp.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/myApp.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/myApp.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/myApp/obj/Debug/net7.0/ref/myApp.dll

@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/practice_1_20230411.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/practice_1_20230411.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/practice_1_20230411.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/practice_1_20230411.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/practice_1_20230411.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/bin/Debug/net7.0/practice_1_20230411
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/bin/Debug/net7.0/practice_1_20230411.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/bin/Debug/net7.0/practice_1_20230411.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/bin/Debug/net7.0/practice_1_20230411.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/bin/Debug/net7.0/practice_1_20230411.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/practice_1_20230411.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/refint/practice_1_20230411.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/practice_1_20230411.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/practice_1_20230411.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/visual_studio/practice_1_1/practice_1_20230411/obj/Debug/net7.0/ref/practice_1_20230411.dll

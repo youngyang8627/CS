@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/bitOperator.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/bitOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/bitOperator.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/bitOperator.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/bitOperator.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/bin/Debug/net7.0/bitOperator
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/bin/Debug/net7.0/bitOperator.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/bin/Debug/net7.0/bitOperator.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/bin/Debug/net7.0/bitOperator.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/bin/Debug/net7.0/bitOperator.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/bitOperator.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/refint/bitOperator.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/bitOperator.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/bitOperator.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/study/bitOperator/obj/Debug/net7.0/ref/bitOperator.dll

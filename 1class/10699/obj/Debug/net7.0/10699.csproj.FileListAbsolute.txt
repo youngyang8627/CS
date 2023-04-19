@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/bin/Debug/net7.0/10699
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/bin/Debug/net7.0/10699.deps.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/bin/Debug/net7.0/10699.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/bin/Debug/net7.0/10699.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/bin/Debug/net7.0/10699.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/10699.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/10699.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/10699.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/10699.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/10699.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/10699.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/refint/10699.dll
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/10699.pdb
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/10699.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/10699/obj/Debug/net7.0/ref/10699.dll

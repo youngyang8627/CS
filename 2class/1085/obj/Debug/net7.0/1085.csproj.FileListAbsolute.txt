@@ -1,0 +1,15 @@
+/home/youngyang/CS/2class/1085/bin/Debug/net7.0/1085
+/home/youngyang/CS/2class/1085/bin/Debug/net7.0/1085.deps.json
+/home/youngyang/CS/2class/1085/bin/Debug/net7.0/1085.runtimeconfig.json
+/home/youngyang/CS/2class/1085/bin/Debug/net7.0/1085.dll
+/home/youngyang/CS/2class/1085/bin/Debug/net7.0/1085.pdb
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/1085.csproj.AssemblyReference.cache
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/1085.GeneratedMSBuildEditorConfig.editorconfig
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/1085.AssemblyInfoInputs.cache
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/1085.AssemblyInfo.cs
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/1085.csproj.CoreCompileInputs.cache
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/1085.dll
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/refint/1085.dll
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/1085.pdb
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/1085.genruntimeconfig.cache
+/home/youngyang/CS/2class/1085/obj/Debug/net7.0/ref/1085.dll

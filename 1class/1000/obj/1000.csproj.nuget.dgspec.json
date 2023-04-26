@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leeseungju/Desktop/dev/CS/1class/1000/1000.csproj": {}
+    "/home/youngyang/CS/1class/1000/1000.csproj": {}
   },
   "projects": {
-    "/Users/leeseungju/Desktop/dev/CS/1class/1000/1000.csproj": {
+    "/home/youngyang/CS/1class/1000/1000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leeseungju/Desktop/dev/CS/1class/1000/1000.csproj",
+        "projectUniqueName": "/home/youngyang/CS/1class/1000/1000.csproj",
         "projectName": "1000",
-        "projectPath": "/Users/leeseungju/Desktop/dev/CS/1class/1000/1000.csproj",
-        "packagesPath": "/Users/leeseungju/.nuget/packages/",
-        "outputPath": "/Users/leeseungju/Desktop/dev/CS/1class/1000/obj/",
+        "projectPath": "/home/youngyang/CS/1class/1000/1000.csproj",
+        "packagesPath": "/home/youngyang/.nuget/packages/",
+        "outputPath": "/home/youngyang/CS/1class/1000/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/leeseungju/.nuget/NuGet/NuGet.Config"
+          "/home/youngyang/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

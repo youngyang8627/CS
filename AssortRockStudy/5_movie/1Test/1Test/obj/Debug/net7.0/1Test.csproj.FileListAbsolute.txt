@@ -1,0 +1,15 @@
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\bin\Debug\net7.0\1Test.exe
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\bin\Debug\net7.0\1Test.deps.json
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\bin\Debug\net7.0\1Test.runtimeconfig.json
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\bin\Debug\net7.0\1Test.dll
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\bin\Debug\net7.0\1Test.pdb
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\1Test.csproj.AssemblyReference.cache
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\1Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\1Test.AssemblyInfoInputs.cache
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\1Test.AssemblyInfo.cs
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\1Test.csproj.CoreCompileInputs.cache
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\1Test.dll
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\refint\1Test.dll
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\1Test.pdb
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\1Test.genruntimeconfig.cache
+C:\Users\youngyang8627\source\repos\CS\AssortRockStudy\5_movie\1Test\1Test\obj\Debug\net7.0\ref\1Test.dll

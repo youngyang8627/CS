@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/07_ClassAccess.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/07_ClassAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/07_ClassAccess.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/07_ClassAccess.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/07_ClassAccess.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/bin/Debug/net7.0/07_ClassAccess
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/bin/Debug/net7.0/07_ClassAccess.deps.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/bin/Debug/net7.0/07_ClassAccess.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/bin/Debug/net7.0/07_ClassAccess.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/bin/Debug/net7.0/07_ClassAccess.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/07_ClassAccess.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/refint/07_ClassAccess.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/07_ClassAccess.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/07_ClassAccess.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/7_movie/07_ClassAccess/obj/Debug/net7.0/ref/07_ClassAccess.dll

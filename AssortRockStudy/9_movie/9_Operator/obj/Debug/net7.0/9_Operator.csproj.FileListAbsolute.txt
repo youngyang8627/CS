@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/bin/Debug/net7.0/9_Operator
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/bin/Debug/net7.0/9_Operator.deps.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/bin/Debug/net7.0/9_Operator.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/bin/Debug/net7.0/9_Operator.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/bin/Debug/net7.0/9_Operator.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/9_Operator.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/9_Operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/9_Operator.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/9_Operator.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/9_Operator.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/9_Operator.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/refint/9_Operator.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/9_Operator.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/9_Operator.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/9_movie/9_Operator/obj/Debug/net7.0/ref/9_Operator.dll

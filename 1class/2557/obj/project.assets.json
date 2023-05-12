@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/2557/2557.csproj",
+      "projectUniqueName": "/Users/leeseungju/Desktop/dev/CS/1class/2557/2557.csproj",
       "projectName": "2557",
-      "projectPath": "/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/2557/2557.csproj",
+      "projectPath": "/Users/leeseungju/Desktop/dev/CS/1class/2557/2557.csproj",
       "packagesPath": "/Users/leeseungju/.nuget/packages/",
-      "outputPath": "/Users/leeseungju/Desktop/dev/solved_ac/CS/1class/2557/obj/",
+      "outputPath": "/Users/leeseungju/Desktop/dev/CS/1class/2557/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leeseungju/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/ClassConstructer_24.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/ClassConstructer_24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/ClassConstructer_24.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/ClassConstructer_24.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/ClassConstructer_24.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/bin/Debug/net7.0/ClassConstructer_24
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/bin/Debug/net7.0/ClassConstructer_24.deps.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/bin/Debug/net7.0/ClassConstructer_24.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/bin/Debug/net7.0/ClassConstructer_24.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/bin/Debug/net7.0/ClassConstructer_24.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/ClassConstructer_24.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/refint/ClassConstructer_24.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/ClassConstructer_24.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/ClassConstructer_24.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/21_Movie/ClassConstructer_24/obj/Debug/net7.0/ref/ClassConstructer_24.dll

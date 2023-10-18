@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/17_structAndMore.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/17_structAndMore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/17_structAndMore.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/17_structAndMore.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/17_structAndMore.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/bin/Debug/net7.0/17_structAndMore
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/bin/Debug/net7.0/17_structAndMore.deps.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/bin/Debug/net7.0/17_structAndMore.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/bin/Debug/net7.0/17_structAndMore.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/bin/Debug/net7.0/17_structAndMore.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/17_structAndMore.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/refint/17_structAndMore.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/17_structAndMore.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/17_structAndMore.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_structAndMore/obj/Debug/net7.0/ref/17_structAndMore.dll

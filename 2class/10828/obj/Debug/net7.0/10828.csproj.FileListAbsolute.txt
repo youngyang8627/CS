@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/10828.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/10828.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/10828.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/10828.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/10828.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/2class/10828/bin/Debug/net7.0/10828
+/Users/leeseungju/Desktop/dev/CS/2class/10828/bin/Debug/net7.0/10828.deps.json
+/Users/leeseungju/Desktop/dev/CS/2class/10828/bin/Debug/net7.0/10828.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/2class/10828/bin/Debug/net7.0/10828.dll
+/Users/leeseungju/Desktop/dev/CS/2class/10828/bin/Debug/net7.0/10828.pdb
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/10828.dll
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/refint/10828.dll
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/10828.pdb
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/10828.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/2class/10828/obj/Debug/net7.0/ref/10828.dll

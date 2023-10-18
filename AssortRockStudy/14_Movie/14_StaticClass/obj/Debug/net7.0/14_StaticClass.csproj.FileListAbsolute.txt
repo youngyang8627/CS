@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/14_StaticClass.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/14_StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/14_StaticClass.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/14_StaticClass.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/14_StaticClass.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/bin/Debug/net7.0/14_StaticClass
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/bin/Debug/net7.0/14_StaticClass.deps.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/bin/Debug/net7.0/14_StaticClass.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/bin/Debug/net7.0/14_StaticClass.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/bin/Debug/net7.0/14_StaticClass.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/14_StaticClass.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/refint/14_StaticClass.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/14_StaticClass.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/14_StaticClass.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/14_Movie/14_StaticClass/obj/Debug/net7.0/ref/14_StaticClass.dll

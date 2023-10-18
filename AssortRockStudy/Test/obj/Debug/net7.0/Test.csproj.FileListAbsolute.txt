@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/bin/Debug/net7.0/Test
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/bin/Debug/net7.0/Test.deps.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/bin/Debug/net7.0/Test.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/bin/Debug/net7.0/Test.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/bin/Debug/net7.0/Test.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/Test.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/Test.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/Test.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/Test.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/Test.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/refint/Test.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/Test.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/Test.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/Test/obj/Debug/net7.0/ref/Test.dll

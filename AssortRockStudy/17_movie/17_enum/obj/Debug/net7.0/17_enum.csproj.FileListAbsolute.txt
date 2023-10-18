@@ -1,0 +1,15 @@
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/17_enum.csproj.AssemblyReference.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/17_enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/17_enum.AssemblyInfoInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/17_enum.AssemblyInfo.cs
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/17_enum.csproj.CoreCompileInputs.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/bin/Debug/net7.0/17_enum
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/bin/Debug/net7.0/17_enum.deps.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/bin/Debug/net7.0/17_enum.runtimeconfig.json
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/bin/Debug/net7.0/17_enum.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/bin/Debug/net7.0/17_enum.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/17_enum.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/refint/17_enum.dll
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/17_enum.pdb
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/17_enum.genruntimeconfig.cache
+/Users/leeseungju/Desktop/dev/CS/AssortRockStudy/17_movie/17_enum/obj/Debug/net7.0/ref/17_enum.dll
